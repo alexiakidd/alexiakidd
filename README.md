@@ -17,10 +17,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
 
 ### 🧪 Testing & Automation
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)  ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat) 
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)  ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)  ![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?logo=TestingLibrary&logoColor=white&style=flat)  ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logo=playwright&logoColor=white&style=flat) 
 
 ### 🎮 Game Development
-![Construct 2](https://img.shields.io/badge/-Construct%202-222222?logo=construct&logoColor=white&style=flat)  
+![Construct 2](https://img.shields.io/badge/-Construct%202-222222?logo=construct3&logoColor=white&style=flat)  
 
 ### 🌐 CMS & Marketing
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?logo=hubspot&logoColor=white&style=flat) ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white&style=flat)
