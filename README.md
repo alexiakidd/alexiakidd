@@ -9,7 +9,7 @@
     
 ## 🛠️ Some techs & libs that I use
 ### 🖥️ Front-end Development
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat)  
 ![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=flat)  ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)  ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat)  ![Emotion](https://img.shields.io/badge/-Emotion-FF2A00?logo=emotion&logoColor=white&style=flat)  
 ![Web Components](https://img.shields.io/badge/-Web%20Components-29ABE2?logo=html5&logoColor=white&style=flat) ![Stencil.js](https://img.shields.io/badge/-Stencil.js-FFCA28?logo=stencil&logoColor=black&style=flat)  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)  
 
