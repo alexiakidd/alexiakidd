@@ -2,7 +2,6 @@
 
 ### 💻 About Me
 - 🚀 Front-end Developer passionate about creating amazing digital experiences.  
-- 🎮 Creator of the educational game that was the foundation of my Bachelor's thesis in Information Systems - IFMA: [**Aventuras pelo Maranhão**](https://aventurasnoma.com).  
 - 📚 Always eager to learn, innovate, and collaborate!  
 
 
